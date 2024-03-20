@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif"  />
+</div>
+
+###
+
 <h2 align="center">Hi👋! My name is Yunus Emre Civan<br>I'm a Full Stack Developer from Türkiye</h2>
 
 ###
